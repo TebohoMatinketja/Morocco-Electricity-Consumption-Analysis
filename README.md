@@ -83,14 +83,6 @@ The nine fields described in the brief are:
                                       for Zone 3
   -----------------------------------------------------------------------
 
-**Data validation still required before final submission:** confirm the
-exact definitions and units of all fields from the supplied data
-dictionary; verify the 10-minute timestamp sequence and missing
-intervals; and establish how the consumption values should be
-interpreted. The analysis period observed in the shared results runs
-from `2017-01-01 00:00` to `2017-12-30 23:50`; do not describe this as a
-complete calendar year without checking the final date and timestamp
-completeness.
 
 ## Tools and Libraries
 
@@ -279,10 +271,6 @@ morocco-electricity-consumption-analysis/
 └── requirements.txt
 ```
 
-Update the filenames and folders to match the actual repository. Do not
-commit confidential or restricted data. If the dataset licence or
-assessment rules do not permit redistribution, document how an
-authorised user can obtain the data instead of uploading it.
 
 ## Reproducing the Analysis
 
@@ -381,7 +369,7 @@ The project assessment calls for:
 
 ## Author
 
-**Data Analytics Student**
+**Teboho Matinketja**
 
 Project: Morocco Electricity Consumption Analysis\
 Track: Data Analytics\
